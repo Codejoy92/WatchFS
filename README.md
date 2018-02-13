@@ -32,9 +32,13 @@ statistics, charts and notifications about their filesystem.
 
 ---
 
-### Potential uses
+### Real world Potential uses
 
-Such a system can potentially be used to store sensitive stuff, such as classified documents. In such situations, it is essential that we monitor all the file system activity and notify the admin about any potetial security breaches or anomalous behavior in real-time.
+1.Such a system can potentially be used to store sensitive stuff, such as classified documents. In such situations, it is essential that we monitor all the file system activity and notify the admin about any potetial security breaches or anomalous behavior in real-time.
+
+2.In case of "work from home" permits, organization don't want their provided laptops to be misused.In such cases WatchFs can be mounted on the system to keep track of activites performed on the particular system.
+
+3.In case of Off Shore Developement center(ODC) or even on On shore developement center, machines provied by organisation for office purpose can use this application to keep track of activites on that particular machine
 
 ---
 
